@@ -1,12 +1,20 @@
-## Hi there 👋
+# 🌍 BatCore.eu - Minecraft Hosting 🛠️
 
-<!--
+Vitajte na oficiálnej GitHub stránke BatCore.eu, vášho najlepšieho riešenia pre Minecraft servery! 🎮
 
-**Here are some ideas to get you started:**
+## 🎯 O nás
+BatCore.eu poskytuje vysoko kvalitný a dostupný hosting pre Minecraft servery 🏰. S našimi výkonnými servery a užívateľsky prívetivým rozhraním je vytvorenie a správa vlastného Minecraft sveta jednoduchšia ako kedykoľvek predtým! 🚀
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 💡 Funkcie
+- ✅ **Stabilné servery:** 99,9% dostupnosť
+- ⚡ **Výkonné stroje:** Servery s vysokým výkonom a nízkou latenciou
+- 🔒 **Bezpečnosť:** Zabezpečenie na úrovni dátových centier
+- 📈 **Škálovateľnosť:** Jednoduché rozširovanie výkonu podľa vašich potrieb
+- 🌐 **Podpora modov a pluginov:** Podpora pre Bukkit, Spigot, Paper a ďalšie modifikácie
+
+## 🤝 Podpora
+Máte otázky alebo potrebujete pomoc? Pozrite si našu [Znalostnú Databázu](https://wiki.batcore.eu), poprípadne nás kontaktujte nás na našom [Discord serveri](https://batcore.eu/discord) alebo nám napíšte email na **infoa@batcore.eu**. Radi vám pomôžeme! 📬 
+
+---
+Ďakujeme, že používate BatCore.eu, a tešíme sa na vaše epické Minecraft dobrodružstvá! 🎉 <br/>
+*BatCore.eu - Tvoj Minecraft hosting pre svet nekonečných možností!*
