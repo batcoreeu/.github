@@ -13,7 +13,7 @@ BatCore.eu poskytuje vysoko kvalitný a dostupný hosting pre Minecraft servery 
 - 🌐 **Podpora modov a pluginov:** Podpora pre Bukkit, Spigot, Paper a ďalšie modifikácie
 
 ## 🤝 Podpora
-Máte otázky alebo potrebujete pomoc? Pozrite si našu [Znalostnú Databázu](https://wiki.batcore.eu), poprípadne nás kontaktujte nás na našom [Discord serveri](https://batcore.eu/discord) alebo nám napíšte email na **infoa@batcore.eu**. Radi vám pomôžeme! 📬 
+Máte otázky alebo potrebujete pomoc? Pozrite si našu [Znalostnú Databázu](https://wiki.batcore.eu), poprípadne nás kontaktujte nás na našom [Discord serveri](https://batcore.eu/discord) alebo nám napíšte email na **info@batcore.eu**. Radi vám pomôžeme! 📬 
 
 ---
 Ďakujeme, že používate BatCore.eu, a tešíme sa na vaše epické Minecraft dobrodružstvá! 🎉 <br/>
